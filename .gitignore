@@ -1,0 +1,123 @@
+# ---------------------------
+
+# Python cache & compiled files
+
+# ---------------------------
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# ---------------------------
+
+# Virtual environments
+
+# ---------------------------
+
+.env
+.venv
+venv/
+ENV/
+env/
+
+# ---------------------------
+
+# Streamlit
+
+# ---------------------------
+
+.streamlit/
+
+# ---------------------------
+
+# Jupyter Notebook checkpoints
+
+# ---------------------------
+
+.ipynb_checkpoints
+
+# ---------------------------
+
+# Environment variables
+
+# ---------------------------
+
+.env
+.env.*
+
+# ---------------------------
+
+# Logs
+
+# ---------------------------
+
+*.log
+
+# ---------------------------
+
+# OS generated files
+
+# ---------------------------
+
+.DS_Store
+Thumbs.db
+
+# ---------------------------
+
+# IDE / Editor folders
+
+# ---------------------------
+
+.vscode/
+.idea/
+
+# ---------------------------
+
+# Data files (optional - important for your project)
+
+# ---------------------------
+
+# Uncomment if you DON'T want to upload datasets
+
+# *.csv
+
+# *.xlsx
+
+# Specifically ignore your dataset if needed
+
+Ecommerce_Sales_Data_2024_2025.csv
+
+# ---------------------------
+
+# Plotly / temp files
+
+# ---------------------------
+
+*.html
+
+# ---------------------------
+
+# Build / distribution
+
+# ---------------------------
+
+build/
+dist/
+*.egg-info/
+
+# ---------------------------
+
+# Testing
+
+# ---------------------------
+
+.pytest_cache/
+.coverage
+
+# ---------------------------
+
+# Misc
+
+# ---------------------------
+
+*.swp

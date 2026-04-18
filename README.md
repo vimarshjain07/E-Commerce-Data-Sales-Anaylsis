@@ -143,6 +143,6 @@ Possible improvements include:
 
 # 👤 Author
 
-**Varunesh Jain**
+**Vimarsh Jain**
 
 Data Analytics Enthusiast
